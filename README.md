@@ -1,4 +1,4 @@
-# Kiwi Novel Formatter (줄바꿈 자동 보정 및 무결성 검증기)
+# Korean Novel Formatter (줄바꿈 자동 보정 및 무결성 검증기)
 
 이 도구는 과거 PC통신 시절의 텍스트 파일이나 하드랩(Hard-wrapped) 처리된 한국어 소설 텍스트에서 **불필요한 줄바꿈(강제 개행)을 자연스럽게 이어 붙이고 띄어쓰기를 지능적으로 교정**하는 오픈소스 자동 보정 도구입니다.
 
@@ -24,7 +24,7 @@
 
 ## 📊 기존 도구와의 비교 (vs CRAutoFix)
 
-| 비교 항목 | CRAutoFix | **Kiwi Novel Formatter (본 도구)** |
+| 비교 항목 | CRAutoFix | **Korean Novel Formatter (본 도구)** |
 | :--- | :--- | :--- |
 | **분석 방식** | 규칙 기반 알고리즘 | 현대적 NLP 형태소 분석 (`Kiwi` 형태소 트리 최적 분석) |
 | **플랫폼 지원** | Windows 전용 | Linux, macOS, Windows (크로스 플랫폼) |
